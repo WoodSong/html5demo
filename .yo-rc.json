@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "app",
+    "namespace": "com.sap.demo",
+    "platform": "Cloud Foundry HTML5 Application Repository",
+    "viewtype": "XML",
+    "viewname": "MainView",
+    "ui5libs": "Content delivery network (OpenUI5)",
+    "newdir": true,
+    "namespaceURI": "com/sap/demo",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
